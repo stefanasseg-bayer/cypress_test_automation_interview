@@ -1,0 +1,11 @@
+{
+  "baseUrl": "<URL (will be provided during interview)>",
+  "chromeWebSecurity": false,
+  "fixturesFolder": "test/cypress/fixtures",
+  "integrationFolder": "test/cypress/integration",
+  "pluginsFile": false,
+  "screenshotsFolder": "test/cypress/screenshots",
+  "supportFile": "test/cypress/support/index.js",
+  "videosFolder": "test/cypress/videos",
+  "video": false
+}

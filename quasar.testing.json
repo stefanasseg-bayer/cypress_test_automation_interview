@@ -1,0 +1,8 @@
+{
+  "e2e-cypress-open": {
+    "runnerCommand": "npx cypress open"
+  },
+  "e2e-cypress-run": {
+    "runnerCommand": "npx cypress run"
+  }
+}
