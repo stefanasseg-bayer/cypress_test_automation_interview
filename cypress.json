@@ -1,5 +1,5 @@
 {
-  "baseUrl": "<URL (will be provided during interview)>",
+  "baseUrl": "http://example.com",
   "chromeWebSecurity": false,
   "fixturesFolder": "test/cypress/fixtures",
   "integrationFolder": "test/cypress/integration",
